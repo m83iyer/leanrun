@@ -1,0 +1,10 @@
+{
+  ".gitignore": "0b236be262bd5353a30017c679a3f453f9ea71b62b768bc6c3aed86a8649a3d4",
+  "ADOPT_WITH_CODEX.txt": "80af7e1ec317a92a0659805fc963262fd9dfb1cdbb7b59e29e49676d1e8b6793",
+  "README.md": "43d8f1a2f024b82378ef399f84c5fe559a6db206f8d3f7dcd39ee6a66e743b53",
+  "demo/check.py": "1050f28f018b6525ffe90687776e774055fca382fd12f71c359e2eb3ddcd479f",
+  "demo/environment.json": "848c8aaed9944cd9cb556c3027f01bf880b4cabdb1a41f1a6bbffbbb071f21dc",
+  "demo/inputs.json": "1ef9ce7e6652893127e14742dbbd79f6f3658995888cd8cfd4a488d27aaefa00",
+  "leanrun.py": "8173e831969480d9d1b9909d2dbdb7c194995deed74f036106fb6e26923228e0",
+  "test_leanrun.py": "1cc9183739d055f0be727a9b1624c6568a376289470d0b542fd8f1bfc3b93a0e"
+}

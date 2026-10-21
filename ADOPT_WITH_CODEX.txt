@@ -1,0 +1,13 @@
+Set up the attached leanrun starter for one appropriate check in my existing repository, not globally.
+
+First inspect README.md, leanrun.py, test_leanrun.py and the existing repository instructions. Preserve my edits, settings, permissions, ownership and release holds. Stop and ask if the target repository is unclear or an action needs approval. Do not install packages, publish, change credentials, spend money or add background jobs.
+
+Run the included fixture tests with python3 -m unittest -v in the extracted kit folder. Then verify its documented demo: first execution reports passed/reused:false, the identical repeat reports reused:true, and a harmless change to demo/check.py causes reused:false. Preserve existing local evidence; use a separate private fixture state directory if needed.
+
+Choose one deterministic, read-only local validation check. Inspect its dependencies and propose the exact leanrun command, declaring all relevant source, test, fixture, configuration and lock files with --file plus accurate input/environment JSON descriptors. Explain any inherited environment, executable, package or remote-state dependency. If you cannot establish adequate input coverage, do not enable reuse; report the missing coverage instead.
+
+Within existing edit authorization, save the reviewed command and descriptors locally and add a narrowly scoped AGENTS.md instruction, preserving existing content. Ask first if authorization requires it. Use one stable task ID and shared private local state directory. Keep secrets out of descriptors, arguments and output.
+
+Verify the real check executes, reuses only an unchanged pass, and reruns after a safe declared-input change. Use a temporary fixture/copy or obtain approval before touching user code; restore only your own temporary edits. Keep required test coverage and independent review. Never bypass a blocked task by renaming it or changing its state path. Do not use this for writes, deployments or builds needing artifact restoration.
+
+Return the exact command, declared coverage and limitations, observed acceptance results, files changed, evidence locations and rollback. Do not claim measured token savings or all-repository protection.
